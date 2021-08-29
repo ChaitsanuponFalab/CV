@@ -1,1 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2021-08-29T06:20:56.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" version="15.0.3" etag="DmsRvO4wIRVUXJ_9DMdy" type="github"><diagram id="WlyZijEzFmnZDgSChYxo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-29T06:31:34.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="M37T9FsXiO0riB_9tsjy" version="15.0.3" type="github">
+  <diagram id="WlyZijEzFmnZDgSChYxo" name="Page-1">
+    <mxGraphModel dx="865" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WmQ2WXIMw16VJlyW4lx7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WmQ2WXIMw16VJlyW4lx7-1" target="WmQ2WXIMw16VJlyW4lx7-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="175" />
+              <mxPoint x="310" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmQ2WXIMw16VJlyW4lx7-42" value="ก้าวครบตามกำหนด" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WmQ2WXIMw16VJlyW4lx7-32">
+          <mxGeometry x="0.0209" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmQ2WXIMw16VJlyW4lx7-1" value="ผู้ใช้ทั่วไป" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WmQ2WXIMw16VJlyW4lx7-13" value="ผู้พัฒนาระบบ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WmQ2WXIMw16VJlyW4lx7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="WmQ2WXIMw16VJlyW4lx7-14" target="WmQ2WXIMw16VJlyW4lx7-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="313" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmQ2WXIMw16VJlyW4lx7-39" value="คูปองส่วนลดต่างๆ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WmQ2WXIMw16VJlyW4lx7-36">
+          <mxGeometry x="0.2724" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmQ2WXIMw16VJlyW4lx7-14" value="ร้านค้าที่ร่วมรายการ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WmQ2WXIMw16VJlyW4lx7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WmQ2WXIMw16VJlyW4lx7-15" target="WmQ2WXIMw16VJlyW4lx7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WmQ2WXIMw16VJlyW4lx7-40" value="coin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WmQ2WXIMw16VJlyW4lx7-33">
+          <mxGeometry x="-0.2228" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmQ2WXIMw16VJlyW4lx7-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WmQ2WXIMw16VJlyW4lx7-15" target="WmQ2WXIMw16VJlyW4lx7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WmQ2WXIMw16VJlyW4lx7-38" value="report" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WmQ2WXIMw16VJlyW4lx7-34">
+          <mxGeometry x="-0.1788" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmQ2WXIMw16VJlyW4lx7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WmQ2WXIMw16VJlyW4lx7-15" target="WmQ2WXIMw16VJlyW4lx7-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="280" />
+              <mxPoint x="563" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmQ2WXIMw16VJlyW4lx7-43" value="coin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WmQ2WXIMw16VJlyW4lx7-35">
+          <mxGeometry x="-0.0758" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WmQ2WXIMw16VJlyW4lx7-15" value="ก้าวแลกแต้ม บนระบบบล็อคเชน" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="260" width="120" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
